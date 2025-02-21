@@ -21,9 +21,10 @@
 
 ## Upcoming Tasks
 - Host a multi-container application using kubernetes.
-- Create bots to ping my website joestack.org to test what my hardware can handle. 
+- Create bots to ping my website joestack.org to test what my hardware can handle. Only can do this locally. 
 - Learn how to loadbalance with k8s and throw bots at it to test. 
 - Run my personal website (joseph-baruch.com) on my server. 
 - Run Kaley's website on server. 
 - Configure a DNS server to block adds. 
-- Create a website with Google Ads.  
+- Create a website with Google Ads.
+- Run my own VPN on my server or people to connect to.   

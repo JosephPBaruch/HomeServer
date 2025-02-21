@@ -1,0 +1,3 @@
+MAC ADDRESS: 192.168.254.31
+
+ssh jbaruch@192.168.254.45
