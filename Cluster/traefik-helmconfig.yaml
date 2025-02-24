@@ -13,8 +13,8 @@ spec:
         port: 443
         expose: true
       josephbaruch:
-        port: 7999
+        port: 8009
         expose: true
-      custom2:
-        port: 9092
+      joeStack:
+        port: 8010
         expose: true
