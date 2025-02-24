@@ -1,7 +1,7 @@
 #!/bin/bash
 
-AWS_REGION="us-west-2"
-AWS_ACCOUNT_ID="123456789012"
+AWS_REGION="us-east-2"
+AWS_ACCOUNT_ID="334716479543"
 AWS_REPO_NAME="josephbaruch.com"
 LOCAL_REGISTRY="localhost:5000"
 TAG="latest"
