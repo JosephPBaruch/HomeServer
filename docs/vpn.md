@@ -1,4 +1,9 @@
-### How to set up a VPN server in my local network
+# How to set up a VPN server in my local network
+
+## Use this Docker Image
+
+> docker pull linuxserver/wireguard
+
 
 Setting up a VPN server in your local network depends on your specific use case, but the general process involves:
 
