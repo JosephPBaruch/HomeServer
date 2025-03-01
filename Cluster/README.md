@@ -1,5 +1,8 @@
 
 
+sudo chmod 644 /etc/rancher/k3s/k3s.yaml
+
+
 sudo vi /etc/systemd/system/k3s.service
 
 ExecStart=/usr/local/bin/k3s server \

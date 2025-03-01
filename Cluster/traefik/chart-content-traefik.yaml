@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: chart-content-traefik
+  namespace: kube-system
+data:
+  traefik.yml: |
+    entryPoints:
+      web:
+        address: ":80"
+      websecure:
+        address: ":443"
+      custom-port:
+        address: ":8081" # Change this to your desired port
+

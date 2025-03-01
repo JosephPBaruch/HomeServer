@@ -28,3 +28,4 @@
 - Configure a DNS server to block adds. 
 - Create a website with Google Ads.
 - Run my own VPN on my server or people to connect to.   
+- Run a DeepSeek model
